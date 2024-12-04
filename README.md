@@ -3,8 +3,7 @@
 - Master of Public Health, Kent State University, 2019
 - Bachelor of Science in Psychology, Kent State University, 2016
 ### Work Experience
-Biostatistician I | CareQuest Institute for Oral Health, December 2023-Present, 40
-Hours/Week
+Biostatistician I | CareQuest Institute for Oral Health, December 2023-Present
 Research Analyst | June 2022-December 2023
 - Conducted statistical analyses on large medical and dental claims datasets and on survey
 data such as Merative MarketScan, BRFSS, MEPS, NHIS and State of Oral Health
