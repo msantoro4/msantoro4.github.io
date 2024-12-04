@@ -38,6 +38,8 @@ side-by-side with them to provide guidance
 - Tracked development of the ACE volunteer program and analyzed data to find areas
 where improvement was needed
 
+### Example Projects 
+
 ## Publications 
 
 - Heaton LJ, **Santoro M**, Tiwari T, Preston R, Schroeder K, Randall CL, et al. Mental
@@ -49,8 +51,7 @@ study. J Public Health Dent. 2024. https://doi.org/10.1111/jphd.12640
 - Heaton, Lisa J., O’Malley, John, Burroughs, Melissa, **Santoro, Morgan**, Preston,
 Rebecca, and Tranby, Eric P. An Estimated 12 Million Children and Adults Lost Medicaid
 Dental Insurance after the COVID-19 Public Health Emergency Expired. Boston, MA:
-March 2024. DOI: 10.35565/CQI.2024.2002 Copyright ©2024 CareQuest Institute for
-Oral Health, Inc
+March 2024. DOI: 10.35565/CQI.2024.2002 Copyright ©2024 CareQuest Institute for Oral Health, Inc
 - Martin, Paige, **Santoro, Morgan**, Heaton, Lisa J., Preston, Rebecca, and Tranby, Eric
 P. Still Searching: Meeting Oral Health Needs in Rural Settings. Boston, MA: November 2023. DOI: 10.35565/CQI.2023.2007
 - Raskin, S.E., Thakkar-Samtani,M., **Santoro, M.** et al. Discrimination and Dignity
@@ -64,4 +65,10 @@ Hunger Pains: How Food Insecurity Affects Oral Health. Boston, MA; September 202
 Oral Hygiene Home Care Practices in America. CareQuest Institute for Oral Health,
 February 2023. DOI: 10.35565/CQI.2023.2003
 
-### Project Examples 
+## Presentations
+
+- A Multilevel Logistic Analysis on Discrimination and Dignity Experiences in Prior Oral Health Care Visits, AcademyHealth Annual Research Meeting, June 2024
+- Consumers’ Experiences with Discrimination and Indignity in Oral Health Care Settings: Results from a National Representative Survey, IADR/AADOCR/CADR General Session & Exhibition, March 2024
+- Oral Health Among Individuals Requiring Support of a Caregiver, American Public Health Association, November 2023
+- Oral health related quality of life and oral health disparities within the LGBTQIA+ community, AADOCR General Session & Exhibition, March 2023
+
