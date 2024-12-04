@@ -17,7 +17,7 @@ Equity in America Survey (SOHEA)
 - Presented research at various medical, dental and public health conferences
 - Conducted and advised on advanced statistical analyses such as regression, multi-level
 regression, path analysis, survival analysis and oversampling methods
-- Created and maintained an average of five data visualizations with Tableau\
+- Created and maintained an average of five data visualizations with Tableau
   
 ### Research Analyst | California State University-Sacramento, August 2020-June 2022
 - Cleaned, managed, and analyzed large datasets such as the California Behavior Risk
