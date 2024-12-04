@@ -1,10 +1,10 @@
 # Bioststistician 
-### Education
+## Education
 - Master of Public Health, Kent State University, 2019
 - Bachelor of Science in Psychology, Kent State University, 2016
-### Work Experience
-Biostatistician I | CareQuest Institute for Oral Health, December 2023-Present
-Research Analyst | June 2022-December 2023
+## Work Experience
+### Biostatistician I | CareQuest Institute for Oral Health, December 2023-Present
+### Research Analyst | June 2022-December 2023
 - Conducted statistical analyses on large medical and dental claims datasets and on survey
 data such as Merative MarketScan, BRFSS, MEPS, NHIS and State of Oral Health
 Equity in America Survey (SOHEA)
@@ -14,7 +14,7 @@ Equity in America Survey (SOHEA)
 - Conducted and advised on advanced statistical analyses such as regression, multi-level
 regression, path analysis, survival analysis and oversampling methods
 - Created and maintained an average of five data visualizations with Tableau
-Research Analyst | California State University-Sacramento, August 2020-June 2022
+### Research Analyst | California State University-Sacramento, August 2020-June 2022
 - Cleaned, managed, and analyzed large datasets such as the California Behavior Risk
 Factor Surveillance Survey (BRFSS)
 - Collaborated with contractors and coworkers to ensure proper survey design and
@@ -23,7 +23,7 @@ programming
 - Analyzed past and present data to improve data collection methods and interviewer
 training
 - Created detailed reports of survey results and findings
-Americorps Volunteer Infrastructure Fellow | Calistoga Junior-Senior High School,
+### Americorps Volunteer Infrastructure Fellow | Calistoga Junior-Senior High School,
 Calistoga, CA September 2019-July 2020
 - Implemented and managed the ACE (After Class Enrichment) volunteer program
 - Developed 10 community and business partnerships that provided support to the ACE
@@ -32,8 +32,7 @@ program
 side-by-side with them to provide guidance
 - Tracked development of the ACE volunteer program and analyzed data to find areas
 where improvement was needed
-### Publications 
-PUBLICATIONS
+## Publications 
 - Heaton LJ, Santoro M, Tiwari T, Preston R, Schroeder K, Randall CL, et al. Mental
 Health, Socioeconomic Position, and Oral Health: A Path Analysis. Prev Chronic Dis
 2024;21:240097. DOI: http://dx.doi.org/10.5888/pcd21.240097
