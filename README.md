@@ -1,7 +1,9 @@
-# Bioststistician 
-## Education
+# Biostatistician 
+
+Education
 - Master of Public Health, Kent State University, 2019
 - Bachelor of Science in Psychology, Kent State University, 2016
+
 ## Work Experience
 ### Biostatistician I | CareQuest Institute for Oral Health, December 2023-Present
 ### Research Analyst | June 2022-December 2023
