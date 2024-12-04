@@ -1,4 +1,5 @@
 # Biostatistician 
+### Technical Skills: R, SQL, SPSS, SAS, Tableau, Databricks, Qualtrics, SurveyMonkey
 
 ## Education
 - Master of Public Health, Kent State University, 2019
@@ -39,28 +40,27 @@ where improvement was needed
 
 ## Publications 
 
-- Heaton LJ, Santoro M, Tiwari T, Preston R, Schroeder K, Randall CL, et al. Mental
+- Heaton LJ, **Santoro M**, Tiwari T, Preston R, Schroeder K, Randall CL, et al. Mental
 Health, Socioeconomic Position, and Oral Health: A Path Analysis. Prev Chronic Dis
 2024;21:240097. DOI: http://dx.doi.org/10.5888/pcd21.240097
-- Schroeder K, Santoro M, Tranby EP, Heaton L, Ludwig S, Martin P, et al. Teledentistry
+- Schroeder K, **Santoro M**, Tranby EP, Heaton L, Ludwig S, Martin P, et al. Teledentistry
 utilization by oral health professionals and policy considerations: A mixed methods case
 study. J Public Health Dent. 2024. https://doi.org/10.1111/jphd.12640
-- Heaton, Lisa J., O’Malley, John, Burroughs, Melissa, Santoro, Morgan, Preston,
+- Heaton, Lisa J., O’Malley, John, Burroughs, Melissa, **Santoro, Morgan**, Preston,
 Rebecca, and Tranby, Eric P. An Estimated 12 Million Children and Adults Lost Medicaid
 Dental Insurance after the COVID-19 Public Health Emergency Expired. Boston, MA:
 March 2024. DOI: 10.35565/CQI.2024.2002 Copyright ©2024 CareQuest Institute for
 Oral Health, Inc
-- Martin, Paige, Santoro, Morgan, Heaton, Lisa J., Preston, Rebecca, and Tranby, Eric
-P. Still Searching: Meeting Oral Health Needs in Rural Settings. Boston, MA: November
-2023. DOI: 10.35565/CQI.2023.2007
-- Raskin, S.E., Thakkar-Samtani, M., Santoro, M. et al. Discrimination and Dignity
+- Martin, Paige, **Santoro, Morgan**, Heaton, Lisa J., Preston, Rebecca, and Tranby, Eric
+P. Still Searching: Meeting Oral Health Needs in Rural Settings. Boston, MA: November 2023. DOI: 10.35565/CQI.2023.2007
+- Raskin, S.E., Thakkar-Samtani,M., **Santoro, M.** et al. Discrimination and Dignity
 Experiences in Prior Oral Care Visits Predict Racialized Oral Health Inequities Among
 Nationally Representative US Adults. J. Racial and Ethnic Health Disparities (2023).
 https://doi.org/10.1007/s40615-023-01821-0
-- Martin, Paige, Santoro, Morgan, Heaton, Lisa J., Preston, Rebecca, and Tranby, Eric P.
+- Martin, Paige, **Santoro, Morgan**, Heaton, Lisa J., Preston, Rebecca, and Tranby, Eric P.
 Hunger Pains: How Food Insecurity Affects Oral Health. Boston, MA; September 2023.
 10.35565/CQI.2023.2006
-- Schroeder, Kelly; Heaton, Lisa J; Santoro, Morgan; Martin, Paige; and Tranby, Eric P.
+- Schroeder, Kelly; Heaton, Lisa J; **Santoro, Morgan**; Martin, Paige; and Tranby, Eric P.
 Oral Hygiene Home Care Practices in America. CareQuest Institute for Oral Health,
 February 2023. DOI: 10.35565/CQI.2023.2003
 
