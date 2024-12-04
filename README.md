@@ -1,5 +1,5 @@
 # Biostatistician 
-### Technical Skills: R, SQL, SPSS, SAS, Tableau, Databricks, Qualtrics, SurveyMonkey
+### Technical Skills: R, SQL, SPSS, SAS, Tableau, Snowflake, Databricks, Qualtrics, SurveyMonkey
 
 ## Education
 - Master of Public Health, Kent State University, 2019
